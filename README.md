@@ -1,2 +1,2 @@
-# Proyectos-Pasantes
+# Prueba de JavaScript
 Entrega de Tareas
